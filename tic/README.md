@@ -9,6 +9,6 @@ Create A Tic Tac Toe game with: <br>
 (7) Display the appropriate message if the game ends in a draw. <br>
 
 ## Finished Product
-![](tic/assets/tictactoe.png)
+![](assets/tictactoe.png)
 
 
